@@ -1,0 +1,23 @@
+Remote Work Policy - Acme Corp
+Effective Date: January 1, 2024
+
+1. Purpose
+The purpose of this Remote Work Policy is to outline the guidelines and expectations for employees working remotely. Acme Corp recognizes the benefits of remote work in promoting work-life balance and productivity.
+
+2. Eligibility
+Full-time employees who have completed their probationary period are eligible to apply for remote work. Roles that require physical presence (e.g., hardware maintenance, front-desk reception) are not eligible.
+
+3. Work Hours & Availability
+Remote employees must be available during core business hours (10:00 AM - 4:00 PM EST). Employees are expected to maintain the same level of productivity and responsiveness as they would in the office.
+
+4. Equipment & Security
+Acme Corp will provide a company laptop and necessary software. Employees must unsure their home Wi-Fi network is secure and password-protected. Use of public Wi-Fi for handling sensitive company data is strictly prohibited unless a VPN is used.
+
+5. Communication
+Employees should use Slack for asynchronous communication and Zoom for meetings. Weekly check-ins with managers are mandatory.
+
+6. Expense Reimbursement
+Acme Corp will reimburse up to $50/month for internet expenses. Home office furniture or electricity costs are not reimbursable.
+
+7. termination of Remote Work
+Acme Corp reserves the right to terminate remote work agreements at any time if performance standards are not met or business needs change.

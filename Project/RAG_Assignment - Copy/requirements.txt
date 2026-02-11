@@ -1,0 +1,10 @@
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+openai
+jupyter
+ipykernel
+uuid
+tiktoken
+python-dotenv
